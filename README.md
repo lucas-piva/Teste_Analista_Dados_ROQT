@@ -15,7 +15,7 @@ Os dados foram tratados no Power Query com foco em qualidade, padronização e i
 * Criação de tabela calendário (d_Calendario) para análises temporais.
 * Medidas DAX
 
-# Foram desenvolvidas medidas DAX para análise financeira e operacional, incluindo:
+## Foram desenvolvidas medidas DAX para análise financeira e operacional, incluindo:
 
 * Receita Total
 * Despesa Total
@@ -28,7 +28,7 @@ Os dados foram tratados no Power Query com foco em qualidade, padronização e i
 * Prazo Médio de Pagamento (PMP) com média ponderada
 * Dashboard
 
-# O relatório foi dividido em duas páginas principais:
+## O relatório foi dividido em duas páginas principais:
 
 * Visão Financeira Executiva
 * KPIs financeiros
